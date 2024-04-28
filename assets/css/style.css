@@ -22,6 +22,12 @@ Description: This Template is created for web template
 img {
   max-width: 100%; }
 
+.favorite-photo {
+    width: 200px;
+    height: 300px;
+}
+
+
 a {
   text-decoration: none;
   outline: none;
